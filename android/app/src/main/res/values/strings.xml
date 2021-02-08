@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">helloscan</string>
+    <string name="title_activity_main">helloscan</string>
+    <string name="package_name">com.demicoma.helloscan</string>
+    <string name="custom_url_scheme">com.demicoma.helloscan</string>
+</resources>
