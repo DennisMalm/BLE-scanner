@@ -1,6 +1,6 @@
 # BLE-scanner
 
-Simple android app for scanning BLE devices.
+Simple android app for scanning BLE devices built with ionic and react.
 
 ## Links
 
