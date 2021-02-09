@@ -1,6 +1,6 @@
 # BLE-scanner
 
-This example shows how to add Ionic to a regular React project generated with [Create React App](https://create-react-app.dev).
+Simple android app for scanning BLE devices.
 
 ## Links
 
